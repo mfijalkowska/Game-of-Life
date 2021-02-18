@@ -1,6 +1,6 @@
 # Game of Life - C implementaion
 
-This project contains C implementation of the best-known two-dimensional cellular automaton - Game of Life which rules can be found here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+This simple project contains C implementation of the best-known two-dimensional cellular automaton - Game of Life which rules can be found here: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 ## How to run
 Get a copy of this project by running the git clone command.
